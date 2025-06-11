@@ -5,9 +5,9 @@ I'm a **fullstack web developer** and **technical writer** who enjoys building u
 I write clear, accessible content that breaks down complex topics for developers of all levels — from practical web dev tutorials to API walkthroughs and technical documentation.
 
 ### ✍️ Recent Articles
+- [Server-Side Pagination with Express.js and MongoDB](https://dev.to/michaelikoko/server-side-pagination-with-expressjs-and-mongodb-3g5i)
 - [Building a Traffic Light Simulator with Arduino & 7-Segment Display](https://dev.to/michaelikoko/building-a-traffic-light-simulator-with-a-countdown-using-arduino-and-a-7-segment-display-4953)
 - [JWT Authentication with Express, MongoDB, and Passport.js](https://dev.to/michaelikoko/implementing-jwt-authentication-with-express-mongodb-and-passportjs-3fl7)
-- [Server-Side Pagination with Express.js and MongoDB](https://dev.to/michaelikoko/server-side-pagination-with-expressjs-and-mongodb-3g5i)
 
 ### 💼 Portfolio
 Check out my portfolio website 👉 [michaelikoko.github.io](https://michaelikoko.github.io)
@@ -17,9 +17,9 @@ Check out my portfolio website 👉 [michaelikoko.github.io](https://michaelikok
 `Django` `Django REST Framework` `FastAPI` `Wagtail` `HTML` `CSS` `Bootstrap` `C++` `Arduino`
 
 ### 📫 Let's Connect
-- 📩 [Email Me](mailto:your-email@example.com) *(replace with your actual email)*
+- 📩 [Email Me](mailto:michaelikoko.o@gmail.com)
 - 📝 [Read my articles on DEV](https://dev.to/michaelikoko)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with actual link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/michaelikoko/)
 
 ---
 
